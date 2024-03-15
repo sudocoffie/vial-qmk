@@ -29,5 +29,5 @@
   #error "I2C not Supported"
 #endif
 
-#define MASTER_LEFT   
+#define MASTER_LEFT
 #define SOFT_SERIAL_PIN D0

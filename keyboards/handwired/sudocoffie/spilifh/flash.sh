@@ -1,0 +1,1 @@
+qmk flash -kb handwired/sudocoffie/spilif -km vial
